@@ -1,8 +1,3 @@
-var CurrentPosition = {
-  x: 0,
-  y: 0
-}
-
 class Car {
   constructor (name, container) {
     this.name = name
